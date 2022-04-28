@@ -1,8 +1,8 @@
 {
-  "name": "@apollo/client",
+  "name": "@apollo/client-harshit",
   "version": "3.5.9",
   "description": "A fully-featured caching GraphQL client.",
-  "private": true,
+  "private": false,
   "keywords": [
     "apollo",
     "graphql",
