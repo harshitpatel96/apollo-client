@@ -11,7 +11,7 @@
     "client",
     "cache"
   ],
-  "author": "packages@apollographql.com",
+  "author": "harshit.p.patel96@gmail.com",
   "license": "MIT",
   "main": "./dist/main.cjs",
   "module": "./dist/index.js",
@@ -22,10 +22,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/apollographql/apollo-client.git"
+    "url": "git+https://github.com/harshitpatel96/apollo-client.git"
   },
   "bugs": {
-    "url": "https://github.com/apollographql/apollo-client/issues"
+    "url": "https://github.com/harshitpatel96/apollo-client/issues"
   },
   "homepage": "https://www.apollographql.com/docs/react/",
   "scripts": {
@@ -54,7 +54,7 @@
   },
   "bundlesize": [
     {
-      "name": "apollo-client",
+      "name": "apollo-client-harshit",
       "path": "./dist/apollo-client.min.cjs",
       "maxSize": "28.6kB"
     }
